@@ -207,6 +207,10 @@ span{
     list-style: none;
 }
 
+.team{
+    background: #F5F4FA;
+}
+
 .team__title{
     font-family: 'Roboto';
     font-weight: 700;
